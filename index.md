@@ -11,7 +11,7 @@ papers, security research funding, giving talks, presenting posters,
 making a personal website, job opportunities in universities and
 industry, and teaching.
 
-**Course meetings**: Fri 11:00-11:50, via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
+**Course meetings**: Fr 11:00-11:50, via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
 
 **Instructor**: [Karl Broman](https://kbroman.org)
 

@@ -8,7 +8,7 @@ description: Syllabus for BMI 884, Biomedical data science professional skills
 [University of Wisconsin-Madison](https://wisc.edu) <br/>
 (1 credit)
 
-**Course meetings**: Fri 11:00 - 11:50, via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
+**Course meetings**: Fr 11:00 - 11:50, via BBCollaborate at [Canvas site](https://canvas.wisc.edu)
 
 **Instructor**: [Karl Broman](https://kbroman.org)
 
