@@ -12,3 +12,7 @@ description: Resources for BMI 884, Biomedical data science professional skills
 - [Survey of the academic job market](https://doi.org/10.1101/796466)
 
 - [Faculty job interviewing tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html)
+
+### Industry jobs
+
+- [Building a career in data science (book)](https://www.manning.com/books/build-a-career-in-data-science)
