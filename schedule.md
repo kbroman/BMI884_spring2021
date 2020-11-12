@@ -17,7 +17,7 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 19 Mar  |    | Industry job interviews |
 | 26 Mar  |    | \[mock interviews\] |
 | 2 Apr   |    | **No class** |
-| 9 Apr   |    | Conference networking |
+| 9 Apr   |    | Time management |
 | 16 Apr  |    | The craft of teaching |
 | 23 Apr  |    | Leading non-traditional courses |
 | 30 Apr  |    | Motivation and demotivation in teaching |
