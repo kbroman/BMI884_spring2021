@@ -9,7 +9,8 @@ career are often left to students to develop on their own. This course
 attempts to fill many of those gaps, including writing and reviewing
 papers, security research funding, giving talks, presenting posters,
 making a personal website, job opportunities in universities and
-industry, and teaching.
+industry, and teaching. This is a continuation of [BMI
+883](https://kbroman.org/BMI883).
 
 **Course meetings**: Fr 11:00-11:50 (via BBCollaborate, in the
 "Course room" at the [Canvas site](https://canvas.wisc.edu))
