@@ -15,4 +15,4 @@ description: Resources for BMI 884, Biomedical data science professional skills
 
 ### Industry jobs
 
-- [Building a career in data science (book)](https://www.manning.com/books/build-a-career-in-data-science)
+- [Building a career in data science (book)](https://livebook.manning.com/book/build-a-career-in-data-science)
