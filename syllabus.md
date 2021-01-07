@@ -38,12 +38,12 @@ industry, and teaching.
 
 ### Course grade
 
-Course grade will be based on class participation (40%)
-and four homework assignments (60%).
+Course grade will be based on class participation (70%)
+and two homework assignments (30%).
 
-The homework assignments will include: creating a personal website,
+The homework assignments may include: creating a personal website,
 writing a cover letters for applications to an academic and an
-industry position, constructing a CV and a resume, and writing a short
+industry position, constructing a CV and a resume, or writing a short
 essay on motivating and demotivating learning experiences they have
 had.
 
