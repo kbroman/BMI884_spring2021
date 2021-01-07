@@ -12,10 +12,10 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 12 Feb  |    | Success on the tenure-track |
 | 19 Feb  |    | Non-tenure-track university jobs |
 | 26 Feb  |    | Jobs in industry |
-| 5 Mar   |    | Applying for jobs |
-| 12 Mar  |    | Academic job interviews |
-| 19 Mar  |    | Industry job interviews |
-| 26 Mar  |    | \[mock interviews\] |
+| 5 Mar   |    | Jobs at liberal arts colleges |
+| 12 Mar  |    | Applying for jobs |
+| 19 Mar  |    | Academic job interviews |
+| 26 Mar  |    | Industry job interviews |
 | 2 Apr   |    | **No class** |
 | 9 Apr   |    | Time management |
 | 16 Apr  |    | The craft of teaching |
