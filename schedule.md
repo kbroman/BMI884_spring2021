@@ -7,17 +7,17 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 
 | Date    | &nbsp;&nbsp;&nbsp;&nbsp;   | Topic/Reading  |
 | :------ | -- | :----- |
-| 29 Jan  |    | Success in collaboration |
-| 5 Feb   |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016) |
-| 12 Feb  |    | Success on the tenure-track |
-| 19 Feb  |    | Non-tenure-track university jobs |
+| 29 Jan  |    | No class
+| 5 Feb   |    | Success in collaboration |
+| 12 Feb  |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016) |
+| 19 Feb  |    | Success on the tenure-track |
 | 26 Feb  |    | Jobs in industry |
 | 5 Mar   |    | Jobs at liberal arts colleges |
-| 12 Mar  |    | Applying for jobs |
-| 19 Mar  |    | Academic job interviews |
-| 26 Mar  |    | Industry job interviews |
+| 12 Mar  |    | Non-tenure-track university jobs |
+| 19 Mar  |    | Applying for jobs |
+| 26 Mar  |    | Academic job interviews |
 | 2 Apr   |    | **No class** |
-| 9 Apr   |    | Time management |
+| 9 Apr   |    | Industry job interviews |
 | 16 Apr  |    | The craft of teaching |
-| 23 Apr  |    | Leading non-traditional courses |
-| 30 Apr  |    | Motivation and demotivation in teaching |
+| 23 Apr  |    | Motivation and demotivation in teaching |
+| 30 Apr  |    | Time management |
