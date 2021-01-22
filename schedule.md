@@ -21,3 +21,7 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 16 Apr  |    | The craft of teaching |
 | 23 Apr  |    | Motivation and demotivation in teaching |
 | 30 Apr  |    | Time management |
+
+<!-- 26 Feb: William Forrest -->
+<!-- 5 March: Katie Ziegler-Graham -->
+<!-- 12 March: Jens Eickhoff -->
