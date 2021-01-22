@@ -14,7 +14,7 @@ description: Syllabus for BMI 884, Biomedical data science professional skills
 **Instructor**: [Karl Broman](https://kbroman.org)
 
 **Office hours**: Tu 9:30-10:30, Fr 9:30-10:30, or by appointment
-(via BBCollaborate)
+(via BBCollaborate, <https://bit.ly/broman_offhrs>)
 
 A variety of skills that are important for a successful research
 career are often left to students to develop on their own. This course
