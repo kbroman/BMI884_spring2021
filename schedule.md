@@ -9,7 +9,7 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | :------ | -- | :----- |
 | 29 Jan  |    | No class
 | 5 Feb   |    | Success in collaboration: [Bennett and Gadlin (2012)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3652225/) |
-| 12 Feb  |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016) |
+| 12 Feb  |    | Social media: [Carl Sagan effect](https://doi.org/10.1523/JNEUROSCI.0086-16.2016); [Building a brand](https://www.stephaniehicks.com/blog/building-a-brand-as-a-scientist/) |
 | 19 Feb  |    | Success on the tenure-track |
 | 26 Feb  |    | Jobs in industry |
 | 5 Mar   |    | Jobs at liberal arts colleges |
