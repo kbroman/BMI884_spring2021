@@ -16,3 +16,7 @@ description: Resources for BMI 884, Biomedical data science professional skills
 ### Industry jobs
 
 - [Building a career in data science (book)](https://livebook.manning.com/book/build-a-career-in-data-science)
+
+### Collaboration/consulting
+
+- [How to Talk So Kids Will Listen & Listen So Kids Will Talk (book)](https://amzn.to/2ME3gUl)
