@@ -18,10 +18,6 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 26 Mar  |    | Academic job interviews: [preparing for interviews](https://www.sciencemag.org/careers/2018/12/how-put-your-best-foot-forward-faculty-job-interviews), [interviews gone bad](https://www.insidehighered.com/blogs/globalhighered/faculty-job-interviews-gone-bad) |
 | 2 Apr   |    | **No class** |
 | 9 Apr   |    | Industry job interviews: [Building a career in data science (Ch 7)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1) |
-| 16 Apr  |    | The craft of teaching |
-| 23 Apr  |    | Motivation and demotivation in teaching |
+| 16 Apr  |    | Application materials: Cover letters, resumes/CVs, statements |
+| 23 Apr  |    | Teaching |
 | 30 Apr  |    | Time management |
-
-<!-- 26 Feb: William Forrest -->
-<!-- 5 March: Katie Ziegler-Graham -->
-<!-- 12 March: Jens Eickhoff -->
