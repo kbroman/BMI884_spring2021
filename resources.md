@@ -5,9 +5,16 @@ description: Resources for BMI 884, Biomedical data science professional skills
 ---
 
 
+### CV templates
+
+- [Awesome-CV](https://github.com/posquit0/Awesome-CV)
+- [Minimal-Resume](https://github.com/RatulSaha/Minimal-Resume)
+
+
 ### Applying for jobs
 
 - [Repository of successful applications](https://github.com/RILAB/statements)
+
 
 ### Academic jobs
 
@@ -17,9 +24,11 @@ description: Resources for BMI 884, Biomedical data science professional skills
 
 - [Faculty job interviewing tips](http://www.jeffreybigham.com/blog/2020/faculty-job-interviewing-tips.html)
 
+
 ### Industry jobs
 
 - [Building a career in data science (book)](https://livebook.manning.com/book/build-a-career-in-data-science)
+
 
 ### Collaboration/consulting
 
