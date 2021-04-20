@@ -20,4 +20,4 @@ description: Schedule and readings for BMI 884, Biomedical data science professi
 | 9 Apr   |    | Industry job interviews: [Building a career in data science Ch 7](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-7/1), [Appendix](https://livebook.manning.com/book/build-a-career-in-data-science/appendix/) |
 | 16 Apr  |    | Application materials: [Reading 1](https://mitcommlab.mit.edu/broad/commkit/cover-letter-for-a-faculty-position/), [Reading 2 ![pdf icon](icons/pdf-icon.png)](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf), [Building a career (Ch 6)](https://livebook.manning.com/book/build-your-career-in-data-science/chapter-6/1)
 | 23 Apr  |    | Teaching: [Teach Tech Together (Ch 10)](https://teachtogether.tech/en/index.html#s:motivation) |
-| 30 Apr  |    | **No class** (But watch [Laura Albert on time management ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww) |
+| 30 Apr  |    | **No class** (But watch [Laura Albert on time management ![video icon](icons/video-icon.png)](https://www.youtube.com/watch?v=Jmdz0p_gTww)) |
